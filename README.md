@@ -21,17 +21,20 @@ python3 extract.py /home/radny/Downloads/quickmemo_plus
 Result:
 
 '#####        QuickMemo+_190212_021335(1).lqm          #####
+
 Text:
 Nokia 6.1
 Lg q7
 
 
 '#####        QuickMemo+_190212_021340(1).lqm          #####
+
 Text:
 My second text script
 
 
 '#####        QuickMemo+_190212_021338(2).lqm          #####
+
 Text:
 96
 
