@@ -18,7 +18,7 @@ python3 extract.py path_to_lqm_files
 python3 extract.py /home/radny/Downloads/quickmemo_plus
 
 
-Resoult:
+Result:
 
 '#####        QuickMemo+_190212_021335(1).lqm          #####
 Text:
