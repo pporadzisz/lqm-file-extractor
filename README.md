@@ -1,10 +1,10 @@
 # lqm-file-extractor
-Small tool for extract text content from lqm and jlqm file format (QuickMemo+)
+Small Python tool for extract text content from lqm and jlqm file format (QuickMemo+)
 
 
-# Instalation:
+# Instalation (Linux):
 
-Download extract.py 
+Download extract.py file
 wget https://raw.githubusercontent.com/pporadzisz/lqm-file-extractor/master/extract.py
 
 
@@ -45,7 +45,7 @@ Text:
 
 All you have to do is :
 
-1.Use Share option in QuickMemo+ on android device. 
+1.Use Share option in QuickMemo+ on Android device. 
 
 2."Select all" and click "Share" button.
 
